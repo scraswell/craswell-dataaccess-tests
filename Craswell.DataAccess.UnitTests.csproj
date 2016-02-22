@@ -66,11 +66,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Craswell.DataAccess\Craswell.DataAccess.csproj">
+    <ProjectReference Include="..\craswell-dataaccess\Craswell.DataAccess.csproj">
       <Project>{28e0b7a5-24f2-4be6-bf9c-7d065c56355e}</Project>
       <Name>Craswell.DataAccess</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Craswell.Models\Craswell.Models.csproj">
+    <ProjectReference Include="..\craswell-models\Craswell.Models.csproj">
       <Project>{5fc375c7-cf88-4719-8575-0c5a9648615f}</Project>
       <Name>Craswell.Models</Name>
     </ProjectReference>
